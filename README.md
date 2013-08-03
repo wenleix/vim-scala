@@ -1,3 +1,9 @@
+Add the following statement in .vimrc to inlcude this plugin (assume vundle is installed):
+    ```
+    Bundle 'FreePeter/vim-scala'
+    ```
+
+
 The vim-scala plugin forked from https://github.com/scala/scala-dist/tree/master/tool-support/src/vim 
 
 As I would like to use vundle to manage the plugins for vim, thus it requires a clean repository *ONLY* for the vim plugin.
